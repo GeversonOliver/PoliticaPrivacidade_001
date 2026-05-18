@@ -26,7 +26,7 @@ Mesmo sem coleta de dados, o aplicativo segue boas práticas de desenvolvimento 
 A política completa pode ser acessada no arquivo:
 
 ```bash
-https://geversonoliver.github.io/PoliticaPrivacidade_001/
+https://geversonoliver.github.io/Pol-ticaPrivacidade_001/
 ```
 
 ## Publicação na Google Play
